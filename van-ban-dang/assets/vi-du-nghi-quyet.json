@@ -1,0 +1,49 @@
+{
+  "co_quan_cap_tren": "ĐẢNG BỘ TỈNH [...]",
+  "co_quan": "ĐẢNG UỶ XÃ LỘC HƯNG",
+  "so_ky_hieu": "05-NQ/ĐU",
+  "dia_danh": "Lộc Hưng",
+  "ngay": "12",
+  "thang": "01",
+  "nam": "2026",
+  "ten_loai": "NGHỊ QUYẾT",
+  "trich_yeu": "về phương hướng, nhiệm vụ năm 2026",
+  "cong_van": false,
+  "blocks": [
+    {"t": "can-cu", "text": "Căn cứ Điều lệ Đảng;"},
+    {"t": "can-cu", "text": "Căn cứ Quy chế làm việc của Ban Chấp hành Đảng bộ xã Lộc Hưng nhiệm kỳ 2025 - 2030;"},
+    {"t": "can-cu", "text": "Căn cứ Nghị quyết Hội nghị Đảng uỷ lần thứ ... ngày ... tháng ... năm 2026."},
+    {"t": "p", "text": "Hội nghị Đảng uỷ xã Lộc Hưng lần thứ ... đã nghe và thảo luận Báo cáo của Ban Thường vụ về kết quả thực hiện nhiệm vụ năm 2025 và phương hướng, nhiệm vụ năm 2026; Đảng uỷ xã quyết nghị:", "space_before": 6},
+    {"t": "heading", "text": "I. MỤC TIÊU, CHỈ TIÊU"},
+    {"t": "p", "text": "1. Mục tiêu: Giữ vững và nâng cao năng lực lãnh đạo, sức chiến đấu của Đảng bộ; hoàn thành thắng lợi các chỉ tiêu nghị quyết đại hội nhiệm kỳ 2025 - 2030 đề ra trong năm 2026."},
+    {"t": "p", "text": "2. Chỉ tiêu chủ yếu:"},
+    {"t": "p", "text": "- 100% chi bộ trực thuộc hoàn thành tốt nhiệm vụ trở lên; không có chi bộ yếu kém;"},
+    {"t": "p", "text": "- Kết nạp từ 06 đảng viên mới trở lên, đạt 100% chỉ tiêu cấp trên giao;"},
+    {"t": "p", "text": "- 100% đảng viên hoàn thành nhiệm vụ, trong đó trên 90% hoàn thành tốt và xuất sắc nhiệm vụ."},
+    {"t": "heading", "text": "II. NHIỆM VỤ, GIẢI PHÁP"},
+    {"t": "muc", "text": "1. Về công tác xây dựng Đảng"},
+    {"t": "p", "text": "Tăng cường giáo dục chính trị, tư tưởng; tổ chức học tập, quán triệt đầy đủ các nghị quyết, chỉ thị của Trung ương và của Tỉnh uỷ cho 100% cán bộ, đảng viên. Duy trì nền nếp sinh hoạt chi bộ hằng tháng, nâng cao chất lượng sinh hoạt chuyên đề."},
+    {"t": "p", "text": "Chú trọng công tác tạo nguồn, bồi dưỡng quần chúng ưu tú; phân công đảng viên theo dõi, giúp đỡ quần chúng phấn đấu vào Đảng."},
+    {"t": "muc", "text": "2. Về phát triển kinh tế - xã hội"},
+    {"t": "p", "text": "Lãnh đạo thực hiện có hiệu quả các chương trình, đề án phát triển kinh tế; phối hợp với Uỷ ban nhân dân xã chỉ đạo sản xuất, chuyển dịch cơ cấu kinh tế theo hướng bền vững."},
+    {"t": "muc", "text": "3. Về quốc phòng - an ninh"},
+    {"t": "p", "text": "Lãnh đạo thực hiện tốt nhiệm vụ quốc phòng, quân sự địa phương; giữ vững an ninh chính trị, trật tự an toàn xã hội trên địa bàn."},
+    {"t": "heading", "text": "III. TỔ CHỨC THỰC HIỆN"},
+    {"t": "p", "text": "1. Giao Ban Thường vụ Đảng uỷ xây dựng kế hoạch, chương trình hành động thực hiện Nghị quyết, trình Đảng uỷ trước ngày 31 tháng 01 năm 2026."},
+    {"t": "p", "text": "2. Các chi bộ trực thuộc tổ chức quán triệt, xây dựng kế hoạch thực hiện; báo cáo kết quả về Văn phòng Đảng uỷ trước ngày 30 tháng 6 năm 2026 và ngày 30 tháng 11 năm 2026 để tổng hợp, báo cáo Đảng uỷ."},
+    {"t": "p", "text": "3. Giao Văn phòng Đảng uỷ theo dõi, đôn đốc, kiểm tra việc thực hiện Nghị quyết; định kỳ báo cáo Ban Thường vụ."},
+    {"t": "p", "text": "Nghị quyết này được phổ biến đến các chi bộ và toàn thể đảng viên trong Đảng bộ."}
+  ],
+  "ky": {
+    "quyen_han": "T/M ĐẢNG UỶ",
+    "chuc_vu": "BÍ THƯ",
+    "ho_ten": "[...]"
+  },
+  "noi_nhan": [
+    "Các đồng chí Đảng uỷ viên;",
+    "Các chi bộ trực thuộc Đảng uỷ;",
+    "Lưu Văn phòng Đảng uỷ."
+  ],
+  "dia_chi": "Địa chỉ: [...] - Điện thoại: [...] - Email: [...]",
+  "so_ban": "VPĐU-DN.05"
+}

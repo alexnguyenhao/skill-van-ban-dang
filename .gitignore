@@ -1,0 +1,14 @@
+# Hệ điều hành / IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Kết quả sinh ra
+*.docx
+~$*.docx

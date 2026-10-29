@@ -1,0 +1,26 @@
+{
+  "skills": [
+    {
+      "name": "van-ban-dang",
+      "version": "1",
+      "files": [
+        "SKILL.md",
+        "assets/co-quan-mac-dinh.md",
+        "assets/mau-bao-cao.md",
+        "assets/mau-cong-van.md",
+        "assets/mau-ket-luan.md",
+        "assets/mau-nghi-quyet.md",
+        "assets/mau-quy-che.md",
+        "assets/vi-du-nghi-quyet.json",
+        "references/cach-viet.md",
+        "references/checklist.md",
+        "references/ngon-ngu.md",
+        "references/quyen-han-ky.md",
+        "references/so-sanh-nha-nuoc.md",
+        "references/the-loai.md",
+        "references/the-thuc.md",
+        "scripts/tao_docx.py"
+      ]
+    }
+  ]
+}
